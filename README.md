@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+My name is Kade, I'm a UM-Flint trained computer scientist interested in all C++ and Data Structures!
 - 🔭 I’m currently working on a Hashtable project that utilizes an array of Queues to help sort presidents into parking lots.
-- 🌱 I’m currently learning Data Structures in c++ and building my own class templates for them.
+- 🌱 I’m currently learning Data Structures in C++ and building my own class templates for them.
 - 📫 How to reach me: 248-981-3171
 
 <!--
