@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Kade, I'm a UM-Flint trained computer scientist interested in all C++ and Data Structures!
-- 🔭 I’m currently working on a resource managment game that utilizes JS, HTML, and CSS
-- 🌱 I love learning about web development and im currently learning how to improve my CSS 
+- 🔭 I’m currently working on developing websites 
+- 🌱 I love learning about web development and im currently learning react
 - 📫 How to reach me: 248-981-3171
 
 <!--
