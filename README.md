@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Kade, I'm a UM-Flint trained computer scientist interested in all C++, Python and Data Structures!
-- 🌱 I love learning about web development and im currently learning Python and PHP
+- 🌱 I'm currently studying Operating Systems and Computer Architecture
 - 📫 How to reach me: 248-981-3171
 
 <!--
