@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kade, I'm a University of Michigan trained computer scientist interested in all C++, Python and Data Structures!
+I'm Kade, a Computer Science student at the University of Michigan with a passion for C++, Python, and Data Structures.
 - 🌱 I'm currently studying Operating Systems and Computer Architecture
 - 📫 How to reach me: 248-981-3171
 
