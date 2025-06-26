@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kade, a Computer Science student at the University of Michigan with a passion for C++, Python, and Data Structures.
+I'm Kade, a Computer Science student at the University of Michigan with a passion for Java, C++, and Spring Boot.
 - 🌱 I'm currently studying Operating Systems and Computer Architecture
 - 📫 How to reach me: 248-981-3171
 
